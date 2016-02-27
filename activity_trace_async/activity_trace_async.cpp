@@ -22,6 +22,8 @@
     }                                                                   \
   } while (0)
 
+printf("github success!");
+
 #define BUF_SIZE (32 * 1024)
 #define ALIGN_SIZE (8)
 #define ALIGN_BUFFER(buffer, align)                                            \
